@@ -14,6 +14,10 @@ and for the managers their office phone number
 
 activate the project using 'node index.js'
 
+walk thru demo (video)
+https://drive.google.com/file/d/10Pvwg7qgJh-djqtgv145ZDxwPK0DMxuj/view
+
+
 for testing, use "npx jest'
 # License
 No license
